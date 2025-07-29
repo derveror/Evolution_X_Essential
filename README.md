@@ -1,4 +1,4 @@
-# Evolution X Xiaomi Mi 10 Pro
+# Evolution X Essential PH-1
 
 ![2okPze5](https://github.com/Evolution-XYZ/XDA/blob/udc/assets/banner_style_1.png?raw=true)
 ```
